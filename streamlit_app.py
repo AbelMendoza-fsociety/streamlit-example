@@ -9,7 +9,7 @@ from streamlit_option_menu import option_menu
 # Universidad Nacional de SAn Agustin de Arequipa!
 ## Escuela Profesional de Ingeniería de Telecomunicaciones!
 
-
+st.write("*![que-es-la-regresion-lineal-y-para-que-sirve](https://www.unsa.edu.pe/let's/wp-content/themes/observatorio/img/unsa -logo.png)*") 
 
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
